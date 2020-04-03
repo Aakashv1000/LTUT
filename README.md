@@ -29,7 +29,8 @@ of around 16,00,000 English and Hindi binary sentences collected from a wide var
 sources such as TED Talks, Wikipedia articles, etc. The dataset is already divided into
 train, dev and test subsets to help our development needs.
 
-# 3. Dataset Segregation: To get an idea of the performance of our model while training, the
+# 3. Dataset Segregation: 
+To get an idea of the performance of our model while training, the
 dataset is divided into train and dev subsets, so that we can monitor the training progress.
 To check the model performance on real-world data, we further divide the dataset to
 obtain a test subset.
